@@ -1,7 +1,4 @@
-# robofriends
+# RoboFriends
 Tutorial for udemy course - React
-To run the project:
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+Built a react app which generates robot cards with information fetched from a website with users infromation.
+Also, There is a search box which filters the robots as you desire.
